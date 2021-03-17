@@ -1,0 +1,13 @@
+html{
+    background-color: lightgray;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+h3{
+    color: black;
+    font-size: 30px;
+}
